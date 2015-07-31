@@ -1,0 +1,23 @@
+{
+    "id":"1",
+    "index": "1",
+    "name": "场馆一的名字",
+    "picSrc": "data/flower.jpg",
+    "position": "上海某个某个地方",
+    "time": "2014-01-01",
+    "tel":"13061903760",
+    "rate": "4.0",
+    "price":"35",
+    "availableSeats":2,
+    "capacity":10,
+    "longitude":121.594061,
+    "latitude":31.207879,
+    "resources": [
+    	{"image":"http://jcwl.me/images/general-nature/1w.jpg",
+    	 "text":"主场馆"},
+    	{"image":"http://jcwl.me/images/general-nature/2w.jpg",
+    	 "text":"卫生间"},
+    	{"image":"http://jcwl.me/images/general-nature/3w.jpg",
+         "text":"浴室"}
+    	]
+}

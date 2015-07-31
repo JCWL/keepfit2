@@ -1,0 +1,28 @@
+{
+  "name": "fengDemo",
+  "version": "0.0.1",
+  "description": "this is a demo",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-qunit": "^0.4.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "http-server -p 6666"
+  },
+  "author": "yanqiong",
+  "license": "yanqiong"
+}
